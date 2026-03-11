@@ -1,4 +1,4 @@
-# ⚡ Stacks Academy
+# Stacks Academy
 
 > AI-powered learning for Bitcoin builders on Stacks L2. Learn Clarity, build with sBTC, and earn a verifiable NFT certificate — secured by Bitcoin.
 
@@ -90,9 +90,8 @@ clarinet check && clarinet test
 
 ## Links
 
-- 🔗 [Live Demo](https://stacks-academy.xyz)
-- 📋 [Hackathon Submission](https://dorahacks.io/hackathon/buidlbattle2/ideaism)
-- 📚 [Stacks Docs](https://docs.stacks.co)
+- [Live Demo](https://stacks-academy.xyz)
+- [Stacks Docs](https://docs.stacks.co)
 
 ---
 
